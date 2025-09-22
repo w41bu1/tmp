@@ -19,6 +19,7 @@
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
 <link rel="alternate" type="application/rss+xml" href="//localhost:1313/vi/categories/vulnerabilities/index.xml">
+<link rel="alternate" hreflang="en" href="//localhost:1313/categories/vulnerabilities/">
 <link rel="alternate" hreflang="vi" href="//localhost:1313/vi/categories/vulnerabilities/">
 <noscript>
     <style>
@@ -147,6 +148,20 @@
 
 <article class="post-entry tag-entry"> 
   <header class="entry-header">
+    <h2 class="entry-hint-parent">CVE-2025-10181 Analysis &amp; POC
+    </h2>
+  </header>
+  <div class="entry-content">
+    <p>Lỗ hổng trong plugin ** Draft List** trước phiên bản 2.6.1. Dữ liệu được lấy từ GET request được in trực tiếp vào HTML attribute, reflected XSS xảy ra khi người dùng có đặc quyền truy cập vào đường dẫn do attack cung cấp.
+CVE ID: CVE-2025-10181 Product: WordPress Draft List Plugin Vulnerability Type: Cross Site Scripting Affected Versions: &lt;= 2.6 CVSS severity: Low (6.5) Required Privilege: Contributor Requirements Local WordPress and Debugging ** Draft List**: v3.3.23(vul) và v2.6.1(fix) diff tool: meld hoặc bất cứ tool nào có thể compare để thấy được sự khác biệt giữa 2 version Analysis Patch Diff Dùng diff tool bất kì để so sánh sự khác biệt giữa bản lỗi và bản vá. Có sự khác biệt rõ ở file inc/create-lists.php.
+...</p>
+  </div>
+  <footer class="entry-footer"><span title='2025-09-22 15:38:00 +0700 +07'>22 tháng 9, 2025</span>&nbsp;·&nbsp;4 phút&nbsp;·&nbsp;w41bu1</footer>
+  <a class="entry-link" aria-label="post link to CVE-2025-10181 Analysis & POC" href="//localhost:1313/vi/posts/2025-09-22-cve-2025-10181/"></a>
+</article>
+
+<article class="post-entry tag-entry"> 
+  <header class="entry-header">
     <h2 class="entry-hint-parent">CVE-2025-10146 Analysis &amp; POC
     </h2>
   </header>
@@ -268,20 +283,6 @@ CVE ID: CVE-2025-30936 Product: WordPress Torod Plugin Vulnerability Type: SQL I
   </div>
   <footer class="entry-footer"><span title='2025-09-10 00:01:00 +0700 +07'>10 tháng 9, 2025</span>&nbsp;·&nbsp;4 phút&nbsp;·&nbsp;w41bu1</footer>
   <a class="entry-link" aria-label="post link to CVE-2025-30936" href="//localhost:1313/vi/posts/2025-09-10-cve-2025-30936/"></a>
-</article>
-
-<article class="post-entry tag-entry"> 
-  <header class="entry-header">
-    <h2 class="entry-hint-parent">CVE-2025-48281
-    </h2>
-  </header>
-  <div class="entry-content">
-    <p>Introduction Lỗ hổng xảy ra trên plugin MyStyle Custom Product Designer của WordPress trước phiên bản 3.21.2. Điều này có thể cho phép kẻ tấn công trực tiếp tương tác với cơ sở dữ liệu của bạn, bao gồm không giới hạn ở việc đánh cắp thông tin.
-CVE ID: CVE-2025-48281 Product: WordPress MyStyle Custom Product Designer Plugin Vulnerability Type: SQL Injection Affected Versions: &lt;= 3.21.1 CVSS severity: High (9.3) Required Privilege: Unauthenticated Requirements Local WordPress and Debugging MyStyle Custom Product Designer: v3.21.1(vul) và v3.21.2(fix) diff tool: meld hoặc bất cứ tool nào có thể compare để thấy được sự khác biệt giữa 2 version Actived WooCommerce plugin: plugin bắt buộc actived trước khi cài MyStyle Custom Product Designer Plugin, một số hàm trong WooCommerce sẽ được sử dụng. Analysis Nguyên nhân cố lõi do ứng dụng chèn trực tiếp dữ liệu từ GET request vào SQL query mà không có cơ chế kiểm soát chặt chẽ.
-...</p>
-  </div>
-  <footer class="entry-footer"><span title='2025-09-09 18:36:00 +0700 +07'>9 tháng 9, 2025</span>&nbsp;·&nbsp;9 phút&nbsp;·&nbsp;w41bu1</footer>
-  <a class="entry-link" aria-label="post link to CVE-2025-48281" href="//localhost:1313/vi/posts/2025-09-09-cve-2025-48281/"></a>
 </article>
 <footer class="page-footer">
   <nav class="pagination">

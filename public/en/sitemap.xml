@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/tags/analyst/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/tags/analyst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/analyst/"
+                />
+  </url><url>
     <loc>//localhost:1313/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -24,6 +36,42 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/categories/"
+                />
+  </url><url>
+    <loc>//localhost:1313/categories/cve-analyst/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/categories/cve-analyst/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/cve-analyst/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/plugin/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/tags/plugin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/plugin/"
+                />
+  </url><url>
+    <loc>//localhost:1313/posts/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/posts/"
                 />
   </url><url>
     <loc>//localhost:1313/search/</loc>
@@ -52,6 +100,18 @@
                 href="//localhost:1313/tags/"
                 />
   </url><url>
+    <loc>//localhost:1313/categories/vulnerabilities/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/categories/vulnerabilities/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/categories/vulnerabilities/"
+                />
+  </url><url>
     <loc>//localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
@@ -62,6 +122,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="//localhost:1313/"
+                />
+  </url><url>
+    <loc>//localhost:1313/tags/xss/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="vi"
+                href="//localhost:1313/vi/tags/xss/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="//localhost:1313/tags/xss/"
                 />
   </url>
 </urlset>
