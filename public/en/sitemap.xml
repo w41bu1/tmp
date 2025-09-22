@@ -2,126 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/tags/analyst/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/analyst/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/analyst/"
-                />
-  </url><url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/"
-                />
-  </url><url>
-    <loc>//localhost:1313/categories/cve-analyst/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/categories/cve-analyst/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/cve-analyst/"
-                />
-  </url><url>
-    <loc>//localhost:1313/posts/2025-09-17-cve-2025-58990/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/plugin/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/plugin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/plugin/"
-                />
-  </url><url>
-    <loc>//localhost:1313/posts/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/posts/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/"
-                />
-  </url><url>
-    <loc>//localhost:1313/categories/vulnerabilities/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/categories/vulnerabilities/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/vulnerabilities/"
-                />
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/xss/</loc>
-    <lastmod>2025-09-17T22:45:00+07:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/xss/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/xss/"
-                />
-  </url><url>
     <loc>//localhost:1313/archives/</loc>
     <xhtml:link
                 rel="alternate"
@@ -134,88 +14,16 @@
                 href="//localhost:1313/archives/"
                 />
   </url><url>
-    <loc>//localhost:1313/tags/blog/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/blog/"
+                href="//localhost:1313/vi/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/blog/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/cms/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/cms/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/cms/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/core/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/core/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/core/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/giscus/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/giscus/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/giscus/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/github/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/github/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/github/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/jekyll/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/jekyll/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/jekyll/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/php/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/php/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/php/"
+                href="//localhost:1313/categories/"
                 />
   </url><url>
     <loc>//localhost:1313/search/</loc>
@@ -232,52 +40,28 @@
   </url><url>
     <loc>//localhost:1313/series/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/sqli/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/tags/sqli/"
+                href="//localhost:1313/vi/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/sqli/"
+                href="//localhost:1313/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/categories/technology/</loc>
+    <loc>//localhost:1313/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="vi"
-                href="//localhost:1313/vi/categories/technology/"
+                href="//localhost:1313/vi/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/technology/"
-                />
-  </url><url>
-    <loc>//localhost:1313/categories/web/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/categories/web/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/categories/web/"
-                />
-  </url><url>
-    <loc>//localhost:1313/tags/wordpress/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="vi"
-                href="//localhost:1313/vi/tags/wordpress/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/wordpress/"
+                href="//localhost:1313/"
                 />
   </url>
 </urlset>

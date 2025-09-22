@@ -20,5 +20,12 @@
       <guid>//localhost:1313/vi/posts/2025-09-20-wordpress-local-and-debugging/</guid>
       <description>A powerful and the most popular content management system (CMS).</description>
     </item>
+    <item>
+      <title>WordPress Local and Debugging</title>
+      <link>//localhost:1313/vi/posts/2025-08-21-wordpress-local-and-debugging/</link>
+      <pubDate>Thu, 21 Aug 2025 09:00:00 +0700</pubDate>
+      <guid>//localhost:1313/vi/posts/2025-08-21-wordpress-local-and-debugging/</guid>
+      <description>A powerful and the most popular content management system (CMS).</description>
+    </item>
   </channel>
 </rss>
