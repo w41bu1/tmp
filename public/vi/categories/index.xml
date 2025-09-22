@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on w41bu1</title>
+    <link>//localhost:1313/vi/categories/</link>
+    <description>Recent content in Categories on w41bu1</description>
+    <image>
+      <title>w41bu1</title>
+      <url>//localhost:1313/images/papermod-cover.png</url>
+      <link>//localhost:1313/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.150.0</generator>
+    <language>vi</language>
+    <lastBuildDate>Sun, 21 Sep 2025 22:27:00 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/vi/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CVE Analyst</title>
+      <link>//localhost:1313/vi/categories/cve-analyst/</link>
+      <pubDate>Sun, 21 Sep 2025 22:27:00 +0700</pubDate>
+      <guid>//localhost:1313/vi/categories/cve-analyst/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vulnerabilities</title>
+      <link>//localhost:1313/vi/categories/vulnerabilities/</link>
+      <pubDate>Sun, 21 Sep 2025 22:27:00 +0700</pubDate>
+      <guid>//localhost:1313/vi/categories/vulnerabilities/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technology</title>
+      <link>//localhost:1313/vi/categories/technology/</link>
+      <pubDate>Sat, 20 Sep 2025 17:00:00 +0700</pubDate>
+      <guid>//localhost:1313/vi/categories/technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Web</title>
+      <link>//localhost:1313/vi/categories/web/</link>
+      <pubDate>Sat, 20 Sep 2025 17:00:00 +0700</pubDate>
+      <guid>//localhost:1313/vi/categories/web/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
